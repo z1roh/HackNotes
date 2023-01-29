@@ -1,6 +1,7 @@
 # HackNotes
 Estos apuntes requieren de poder tener un laboratorio donde testear y cacharrear cada uno de los diferentes herramientas y ataques que se llevan a cabo a través de las `HackNotes`.
 
+**solo modifico esto**
 Para esto, se recomienda configurar el conocido [DETECTIONLAB](https://detectionlab.network/deployment/). 
 
 <img width="409" alt="image" src="https://user-images.githubusercontent.com/72032027/215297252-cc721820-c444-4a0c-8ab7-9db4e75bb1bf.png">
